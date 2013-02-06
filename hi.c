@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 main(){
-	printf("HI!\n");
+	printf("HI pinalitan na to ni daryll!\n");
 }
